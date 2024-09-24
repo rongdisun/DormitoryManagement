@@ -1,5 +1,7 @@
 # 基于Python的Django框架实现的学生宿舍管理系统
 
+<font color="red" size=5>本人接课程设计，毕业设计，python和Java的均可。微信号：YCK2050</font>
+
 ## 1、技术栈
 
 - python==3.10
@@ -15,6 +17,8 @@
 角色分为三种：管理员、宿管、学生。管理员主要功能是用户管理、宿舍楼管理、分配管理、公告管理等；宿管主要功能：宿舍检查、来访者登记、晚归学生登记、维修管理；学生功能：申请报修。
 
 在删除的过程中，使用弹窗的技术，让操作者进一步确认。
+
+
 
 ## 3、功能简介
 
@@ -85,3 +89,7 @@
 **记录报修的记录和时间**
 
 ![image-20240923231902354](https://raw.githubusercontent.com/rongdisun/learn/main/image-20240923231902354.png)
+
+## 联系方式
+
+<img src="https://raw.githubusercontent.com/rongdisun/learn/main/5f13931de1631b1611043d8211573c7.jpg" alt="5f13931de1631b1611043d8211573c7" style="zoom:25%;" />
